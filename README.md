@@ -1,6 +1,6 @@
 <h1 align="center">Kerry Ehikioya</h1>
 
-<p align="center">Senior frontend engineer building real-time, AI-powered products in health and fintech.</p>
+<p align="center">Senior software engineer building real-time, AI-powered products in health and fintech.</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kerry-ehikioya-5626a7159/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
