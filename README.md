@@ -9,9 +9,7 @@
 
 ---
 
-I'm a frontend engineer with 6+ years across fintech, healthtech, e-commerce, and AI startups, currently leading frontend engineering at a Y Combinator-backed healthtech company. I've also helped build two startups acquired by global firms: Spoke.ai (acquired by Salesforce) and REO (acquired by Engel & Völkers Commercial).
-
-I work where frontend meets real-time AI: speech-to-text, browser-based inference, low-latency streaming, and the architecture that keeps things fast and secure.
+I'm a software engineer with 6+ years across fintech, healthtech, e-commerce, and AI startups, currently leading frontend engineering at a Y Combinator-backed healthtech company. I've also helped build two startups acquired by global firms: Spoke.ai (acquired by Salesforce) and REO (acquired by Engel & Völkers Commercial).
 
 ## What I work on
 
@@ -47,4 +45,4 @@ I work where frontend meets real-time AI: speech-to-text, browser-based inferenc
 
 ---
 
-<p align="center">Community Lead at CityJS Lagos · Based in Lagos, Nigeria</p>
+<p align="center">Community Lead at <a href="https://nigeria.cityjsconf.org/">CityJS Lagos</a> · Based in Lagos, Nigeria</p>
